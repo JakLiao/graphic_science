@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1189868558 source:f:\temp\graphic\bresenham-line\main.cpp
+	<windows.h>
+
+1352009474 source:f:\temp\graphic\bresenham-line\bresenham-line.c
+	"stdlib.h"
+	"graphics.h"
+	"conio.h"
+	"stdio.h"
+
+1220411151 f:\temp\graphic\bresenham-line\graphics.h
+
+1220411151 source:f:\temp\graphic\bresenham-line\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+

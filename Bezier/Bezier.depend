@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1189868558 source:f:\temp\graphic\bezier\main.cpp
+	<windows.h>
+
+1220411151 source:f:\temp\graphic\bezier\winbgi.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics.h"
+
+1220411151 f:\temp\graphic\bezier\graphics.h
+
+1352018046 source:f:\temp\graphic\bezier\bezier.c
+	"stdlib.h"
+	"graphics.h"
+	"conio.h"
+	"stdio.h"
+
